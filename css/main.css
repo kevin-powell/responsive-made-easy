@@ -57,7 +57,7 @@ img {
 
 header,
 section {
-  padding: 4rem 0 calc(var(--clr-neutral-100));
+  padding: 4rem 0;
   @media (min-width: 40em) {
     header,
     section {
